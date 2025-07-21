@@ -18,8 +18,10 @@
 <h3 align="center">A passionate full-developer from Panamá</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c85-pty&label=Profile%20views&color=0e75b6&style=flat" alt="c85-pty" /> </p>
 <p align="left"> 
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c85-pty" alt="c85-pty" /></a> 
-   [![JorgeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c85-pty)](https://github.com/c85-pty/github-readme-stats)]
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c85-pty" alt="c85-pty" /></a>
+   <br/>
+   [![JorgeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c85-pty)](https://github.com/c85-pty/github-readme-stats) 
+   [![JorgeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c85-pty)](https://github.com/c85-pty/github-readme-stats) 
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

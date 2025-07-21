@@ -24,7 +24,7 @@
 
 <br/>
    [![JorgeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c85-pty)](https://github.com/c85-pty/github-readme-stats) 
-   [![JorgeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c85-pty)](https://github.com/c85-pty/github-readme-stats) 
+   ![JorgeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c85-pty&show_icons=true) 
    
 <h3 align="left">Connect with me:</h3>
 <p align="left">

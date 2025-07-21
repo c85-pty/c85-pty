@@ -25,6 +25,9 @@
 </p>
 
 ![JorgeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c85-pty&show_icons=true&theme=transparent)
+
+[![Generated APK AAB (Upload - Create Artifact To Github Action)](https://github.com/c85-pty/CICDAndroid/actions/workflows/blank.yml/badge.svg?branch=master)](https://github.com/c85-pty/CICDAndroid/actions/workflows/blank.yml)
+
    
 <h3 align="left">Connect with me:</h3>
 <p align="left">

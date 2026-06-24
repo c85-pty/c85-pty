@@ -21,13 +21,15 @@
    <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=c85-pty" alt="c85-pty" />   
    </a>
-   <p>
-      ----->  Visit my <a href="https://c85-pty.github.io">portfolio!</a>
-   </p>
+   <h3 align="center">
+      Visit my <a href="https://c85-pty.github.io">portfolio!</a>
+   </h3>
    
 </p>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+<p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 ![JorgeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c85-pty&show_icons=true&theme=transparent)
    

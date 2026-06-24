@@ -21,8 +21,8 @@
    <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=c85-pty" alt="c85-pty" />   
    </a>
-   <a href="https://c85-pty.github.io">  Visit my portfolio!</a>
-   [![trophy](https://github-profile-trophy.vercel.app/?username=c85-pty)](https://github.com/c85-pty/github-profile-trophy)
+    ----->  Visit my <a href="https://c85-pty.github.io">portfolio!</a>
+   
    
 </p>
 

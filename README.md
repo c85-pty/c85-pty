@@ -18,9 +18,7 @@
 <h3 align="center">A passionate full-developer from Panamá</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c85-pty&label=Profile%20views&color=0e75b6&style=flat" alt="c85-pty" /> </p>
 <p align="left"> 
-   <a href="https://github.com/c85-pty/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=c85-pty" alt="c85-pty" />   
-   </a>
+   
    <h3 align="center">
       Visit my <a href="https://c85-pty.github.io">portfolio!</a>
    </h3>
